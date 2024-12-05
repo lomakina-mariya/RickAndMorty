@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "rik-i-morti-rick-and-morty-rick-sanchez-rick-sanchez-morty-7.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "rik-i-morti-rick-and-morty-rick-sanchez-rick-sanchez-morty-7 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "rik-i-morti-rick-and-morty-rick-sanchez-rick-sanchez-morty-7 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
