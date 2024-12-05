@@ -54,22 +54,7 @@ final class CharacterRepository: CharacterRepositoryProtocol {
     }
 }
 
-
-struct CharacterAPIResponse: Decodable {
-    let info: PaginationInfo
-    let results: [APICharacter]
-}
-
 struct PaginationInfo: Decodable {
     let pages: Int
-}
-
-struct APICharacter: Decodable {
-    let id: Int
-    let name: String
-    let status: String
-    let species: String
-    let gender: String
-    let image: String
 }
 
